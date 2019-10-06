@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.util.List;
 
 /**
- * @author mq_xu
+ * @author jw
  * @ClassName BookDetailController
  * @Description 图书详情页面
  * @Date 2019/9/26

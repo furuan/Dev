@@ -3,7 +3,7 @@ package com.bo.entity;
 import java.time.LocalDate;
 
 /**
- * @author mq_xu
+ * @author jw
  * @ClassName User
  * @Description 用户实体类
  * @Date 2019/9/23

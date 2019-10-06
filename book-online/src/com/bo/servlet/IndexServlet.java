@@ -13,7 +13,7 @@ import java.io.IOException;
 import java.util.List;
 
 /**
- * @author mq_xu
+ * @author jw
  * @ClassName IndexController
  * @Description 拦截/index请求，获取所有图书数据，并通过服务器端转发跳转到主页
  * @Date 2019/9/26

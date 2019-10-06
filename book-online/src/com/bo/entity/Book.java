@@ -1,7 +1,7 @@
 package com.bo.entity;
 
 /**
- * @author mq_xu
+ * @author jw
  * @ClassName Book
  * @Description 图书实体类
  * @Date 2019/9/23

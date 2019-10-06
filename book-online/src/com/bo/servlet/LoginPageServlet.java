@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * @author mq_xu
+ * @author jw
  * @ClassName LoginPageController
  * @Description 登录页面url转发
  * @Date 2019/9/26

@@ -9,7 +9,7 @@ import javax.servlet.http.HttpSession;
 import java.io.IOException;
 
 /**
- * @author mq_xu
+ * @author jw
  * @ClassName LogoutController
  * @Description 注销登录
  * @Date 2019/9/26

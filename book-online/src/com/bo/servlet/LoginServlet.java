@@ -17,7 +17,7 @@ import java.io.PrintWriter;
 import java.util.List;
 
 /**
- * @author mq_xu
+ * @author jw
  * @ClassName LoginController
  * @Description 拦截/login.do请求，获得表单传递的参数，进行登录功能验证
  * @Date 2019/9/26

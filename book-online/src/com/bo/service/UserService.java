@@ -10,7 +10,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * @author mq_xu
+ * @author jw
  * @ClassName UserService
  * @Description 用户业务逻辑类
  * @Date 2019/9/26
